@@ -1,0 +1,24 @@
+
+#calculater{
+   
+    border: 2px solid black;
+    width: 200px;
+}
+#display{
+   margin: 10px;
+    width: 85%;
+    font-size: 20px;
+}
+.input_data{
+  
+ 
+   width: 45px;
+   height: 45px; 
+   margin: 5px;
+
+}
+.input_button{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
